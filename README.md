@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohamedAminebenhmida
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on machine learning project
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on mdevops issues
 - 📫 How to reach me via my email mohamedaminebenhmida4@gmail.com
 
 <!---
