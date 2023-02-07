@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MohamedAminebenhmida
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on mdevops issues
+- 🌱 I’m currently learning devops
+- 💞️ I’m looking to collaborate on devops projects
 - 📫 How to reach me via my email mohamedaminebenhmida4@gmail.com
 
 <!---
